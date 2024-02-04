@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ```npm install```
+
+Sistema de refistro 2
